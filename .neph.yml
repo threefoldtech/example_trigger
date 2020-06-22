@@ -9,7 +9,7 @@ main:
 sub_job0:
   commands:
     - sleep 1
-    - exit 2
+    - exit 1
   depends_on:
     - sub_sub_job0
     - sub_sub_job1
