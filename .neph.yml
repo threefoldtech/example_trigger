@@ -1,6 +1,6 @@
 main:
   commands:
-    - sleep 1
+    - sleep 2
   depends_on:
     - sub_job0
     - sub_job1
